@@ -1,0 +1,8 @@
+{
+  "name": "Full-Stack Todo Application",
+  "description": "A production-ready full-stack Todo application with Redux Toolkit state management, JWT auth inside HttpOnly cookies, and MongoDB persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
